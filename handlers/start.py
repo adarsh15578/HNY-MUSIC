@@ -17,7 +17,9 @@ async def start_(client: Client, message: Message):
 
 ɪ'ᴍ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ꜱᴛʀᴇᴀᴍɪɴɢ ʙᴏᴛ ᴡɪᴛʜ ꜱᴏᴍᴇ ᴜꜱᴇꜰᴜʟ ꜰᴇᴀᴛᴜʀᴇꜱ. ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴘʟᴀᴛꜰᴏʀᴍꜱ ʟɪᴋᴇ ʏᴏᴜᴛᴜʙᴇ,
 
+
 ᴍᴀᴅᴇ ʙʏ: [𝐇𝐍𝐘](t.me/{me})
+
 
 ꜰᴇᴇʟ ꜰʀᴇᴇ ᴛᴏ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ
 ,
@@ -44,4 +46,3 @@ async def start_(client: Client, message: Message):
             ]
        ),
     )
-
