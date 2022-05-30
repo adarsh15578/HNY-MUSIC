@@ -55,7 +55,6 @@
     "PING_IMG": {
       "description": "Telegraph link of the pic which you want to set as the ping pic of your bot",
       "required": true
-      "value": "https://telegra.ph/file/8cbec9abf07b4906e94c7.jpg"
     },
     "PMPERMIT": {
       "description": "If you want to notify users who pm to assistant account that it's the assistant account of your bot so don't spam messages there (ENABLE/DISABLE).",
