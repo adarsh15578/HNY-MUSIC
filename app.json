@@ -50,7 +50,6 @@
     "START_IMG": {
       "description": "Telegraph link of the pic which you want to set as the start pic of your bot",
       "required": true
-      "value": "https://telegra.ph/file/8cbec9abf07b4906e94c7.jpg"
     },
     "PING_IMG": {
       "description": "Telegraph link of the pic which you want to set as the ping pic of your bot",
