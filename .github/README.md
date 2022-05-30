@@ -1,5 +1,5 @@
 <p align="center">
-    <br><b>😫 𝗙𝗮𝗹𝗹𝗲𝗻 𝗠𝘂𝘀𝗶𝗰 😫</b><br>
+    <br><b>ʜɴʏ ᴍᴜꜱɪᴄ</b><br>
 </p>
 <p align="center"><a href="https://t.me/DevilsHeavenMF"><img src="https://telegra.ph/file/8cbec9abf07b4906e94c7.jpg"></a></p>
 
