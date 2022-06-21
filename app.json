@@ -3,7 +3,7 @@
   "logo": "https://telegra.ph/file/8cbec9abf07b4906e94c7.jpg",
   "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram", "fallen"],
-  "repository": "https://github.com/HNY-OP/Musicbot",
+  "repository": "https://github.com/hi adarsh15578/Musicbot",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
